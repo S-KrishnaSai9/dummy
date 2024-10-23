@@ -46,10 +46,7 @@ Build a multiclass classification model using a custom convolutional neural netw
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This project was inspired by UpGrad IITB Programme as a case study for the Machine Learning and Artificial Intelligence course.
 
 
 ## Contact
